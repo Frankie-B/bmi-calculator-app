@@ -1,0 +1,24 @@
+{
+  "name": "bmi-calculator-app",
+  "version": "1.0.0",
+  "description": "This is a simple BMI Calculator app.",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Frankie-B/bmi-calculator-app.git"
+  },
+  "author": "Frankie Bukenya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Frankie-B/bmi-calculator-app/issues"
+  },
+  "homepage": "https://github.com/Frankie-B/bmi-calculator-app#readme"
+}
